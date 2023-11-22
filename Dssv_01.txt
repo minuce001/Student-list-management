@@ -1,0 +1,440 @@
+1.	Dao Le Hanh Nguyen 
+	Age:	19
+	Gender:	Nu
+	ID:	123250015
+	Birth:	15/05/2004
+	Class:	22T_DT5
+	Email:	123250015@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Thua Thien Hue
+
+2.	Nguyen Hoang Tuan Anh
+	Age:	19
+	Gender:	Nam
+	ID:	123210001
+	Birth:	08/06/2004
+	Class:	22T_DT5
+	Email:	123210001@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Da Nang
+
+3.	Souvannaphoum Athit
+	Age:	19
+	Gender:	Nam
+	ID:	123230033
+	Birth:	25/01/2004
+	Class:	22T_DT5
+	Email:	123230033@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Laos
+
+4.	Nguyen Duc Binh
+	Age:	18
+	Gender:	Nam
+	ID:	123220001
+	Birth:	08/06/2004
+	Class:	22T_DT5
+	Email:	123220001@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Ha Tinh
+
+5.	Bui The Cuong
+	Age:	19
+	Gender:	Nam
+	ID:	123220002
+	Birth:	18
+	Class:	22T_DT5
+	Email:	123220002@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Binh
+
+6.	Ha Van Khanh Dat
+	Age:	19
+	Gender:	Nam
+	ID:	123230003
+	Birth:	07/11/2004
+	Class:	22T_DT5
+	Email:	123230003@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Ha Tinh
+
+7.	Nguyen Che Dinh
+	Age:	19
+	Gender:	Nam
+	ID:	123240004
+	Birth:	23/09/2004
+	Class:	22T_DT5
+	Email:	123240004@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+8.	Nguyen Viet Minh Duc
+	Age:	18
+	Gender:	Nam
+	ID:	123240002
+	Birth:	30/05/2004
+	Class:	22T_DT5
+	Email:	123240002@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+9.	Le Van Dung
+	Age:	19
+	Gender:	Nam
+	ID:	123250005
+	Birth:	27/01/2004
+	Class:	22T_DT5
+	Email:	123250005@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Tri
+
+10.	Huynh Thi My Dung
+	Age:	20
+	Gender:	Nu
+	ID:	123200001
+	Birth:	05/09/2003
+	Class:	22T_DT5
+	Email:	123200001@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+11.	Le The Duong
+	Age:	18
+	Gender:	Nam
+	ID:	123260003
+	Birth:	12/11/2004
+	Class:	22T_DT5
+	Email:	123260003@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+12.	Nguyen Thi Thuy Hang
+	Age:	20
+	Gender:	Nu
+	ID:	123200002
+	Birth:	30/07/2004
+	Class:	22T_DT5
+	Email:	123200002@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+13.	Nguyen Trung Hieu
+	Age:	18
+	Gender:	Nam
+	ID:	123280004
+	Birth:	03/06/2004
+	Class:	22T_DT5
+	Email:	123280004@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Binh
+
+14.	Duong Quang Minh Hoang
+	Age:	19
+	Gender:	Nam
+	ID:	123260006
+	Birth:	27/06/2004
+	Class:	22T_DT5
+	Email:	123260006@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Da Nang
+
+15.	Bui Nhat Huy
+	Age:	19
+	Gender:	Nam
+	ID:	123270007
+	Birth:	25/07/2004
+	Class:	22T_DT5
+	Email:	123270007@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Binh
+
+16.	Pham Van Huy
+	Age:	18
+	Gender:	Nam
+	ID:	123300005
+	Birth:	16/09/2004
+	Class:	22T_DT5
+	Email:	123300005@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Da Nang
+
+17.	Nguyen Trieu Huy
+	Age:	19
+	Gender:	Nam
+	ID:	123280008
+	Birth:	06/09/2004
+	Class:	22T_DT5
+	Email:	123280008@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Da Nang
+
+18.	Phan Thanh Khai
+	Age:	17
+	Gender:	Nam
+	ID:	123230001
+	Birth:	18/09/2005
+	Class:	22T_DT5
+	Email:	123230001@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Nghe An
+
+19.	Ngo Van Quoc Khanh
+	Age:	19
+	Gender:	Nam
+	ID:	123290009
+	Birth:	25/09/2004
+	Class:	22T_DT5
+	Email:	123290009@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Gia Lai
+
+20.	Nguyen Huu Khoa
+	Age:	19
+	Gender:	Nam
+	ID:	123300010
+	Birth:	25/03/2004
+	Class:	22T_DT5
+	Email:	123300010@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+21.	Nguyen Thi My Le
+	Age:	19
+	Gender:	Nu
+	ID:	123210011
+	Birth:	25/09/2004
+	Class:	22T_DT5
+	Email:	123210011@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+22.	Ho Quy Ly
+	Age:	19
+	Gender:	Nam
+	ID:	123220012
+	Birth:	04/04/2004
+	Class:	22T_DT5
+	Email:	123220012@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Da Nang
+
+23.	Nguyen Si Mirinda
+	Age:	19
+	Gender:	Nam
+	ID:	123230013
+	Birth:	25/06/2004
+	Class:	22T_DT5
+	Email:	123230013@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Hoi An
+
+24.	Vo Thi Quynh Nga
+	Age:	19
+	Gender:	Nu
+	ID:	123240014
+	Birth:	21/05/2004
+	Class:	22T_DT5
+	Email:	123240014@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Gia Lai
+
+25.	Huynh Thi Thanh Nhan
+	Age:	19
+	Gender:	Nu
+	ID:	123260016
+	Birth:	17/02/2004
+	Class:	22T_DT5
+	Email:	123260016@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+26.	Nguyen Thi Quynh Nhi
+	Age:	19
+	Gender:	Nu
+	ID:	123270017
+	Birth:	29/02/2004
+	Class:	22T_DT5
+	Email:	123270017@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Thua Thien Hue
+
+27.	Le Trung Phong
+	Age:	19
+	Gender:	Nam
+	ID:	123280018
+	Birth:	26/07/2004
+	Class:	22T_DT5
+	Email:	123280018@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Thua Thien Hue
+
+28.	Xaysongkham Phoutthasinh
+	Age:	19
+	Gender:	Nam
+	ID:	123240034
+	Birth:	08/10/2004
+	Class:	22T_DT5
+	Email:	123240034@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Laos
+
+29.	Nguyen Minh Phuc
+	Age:	19
+	Gender:	Nam
+	ID:	123290019
+	Birth:	25/02/2004
+	Class:	22T_DT5
+	Email:	123290019@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Thua Thien Hue
+
+30.	Tran Xuan Quang
+	Age:	19
+	Gender:	Nam
+	ID:	123300020
+	Birth:	02/01/2004
+	Class:	22T_DT5
+	Email:	123300020@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Ha Tinh
+
+31.	Ly Hoang Quyen
+	Age:	19
+	Gender:	Nu
+	ID:	123210021
+	Birth:	28/08/2004
+	Class:	22T_DT5
+	Email:	123210021@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+32.	Tran Xuan Tai
+	Age:	19
+	Gender:	Nam
+	ID:	123220022
+	Birth:	25/02/2004
+	Class:	22T_DT5
+	Email:	123220022@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Thua Thien Hue
+
+33.	Van Ba Pham Tan
+	Age:	19
+	Gender:	Nam
+	ID:	123230023
+	Birth:	15/02/2004
+	Class:	22T_DT5
+	Email:	123230023@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nan
+
+34.	Le Xuan Thanh
+	Age:	19
+	Gender:	Nam
+	ID:	123390001
+	Birth:	07/08/2004
+	Class:	22T_DT5
+	Email:	123390001@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Thua Thien Hue
+
+35.	Truong Quoc Thanh
+	Age:	20
+	Gender:	Nam
+	ID:	123200003
+	Birth:	17/02/2003
+	Class:	22T_DT5
+	Email:	123200003@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Binh
+
+36.	Le Nguyen Thanh That
+	Age:	19
+	Gender:	Nam
+	ID:	123240024
+	Birth:	25/03/2004
+	Class:	22T_DT5
+	Email:	123240024@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+37.	Tran Cong Toai
+	Age:	19
+	Gender:	Nam
+	ID:	123250025
+	Birth:	18/07/2004
+	Class:	22T_DT5
+	Email:	123250025@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Ha Tinh
+
+38.	Le Nguyen Ai Tran
+	Age:	19
+	Gender:	Nu
+	ID:	123260026
+	Birth:	01/02/2004
+	Class:	22T_DT5
+	Email:	123260026@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Thua Thien Hue
+
+39.	Nguyen Thanh Trung
+	Age:	19
+	Gender:	Nam
+	ID:	123270027
+	Birth:	28/08/2004
+	Class:	22T_DT5
+	Email:	123270027@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Da Nang
+
+40.	Vo Thanh Tu
+	Age:	19
+	Gender:	Nu
+	ID:	123280028
+	Birth:	28/02/2004
+	Class:	22T_DT5
+	Email:	123280028@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+41.	Vo Van Tuan
+	Age:	19
+	Gender:	Nam
+	ID:	123290029
+	Birth:	18/05/2004
+	Class:	22T_DT5
+	Email:	123290029@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+42.	Phan Thanh Viet
+	Age:	19
+	Gender:	Nam
+	ID:	123300030
+	Birth:	07/07/2004
+	Class:	22T_DT5
+	Email:	123300030@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Quang Nam
+
+43.	Ho Tran Thi Hong Vy
+	Age:	19
+	Gender:	Nu
+	ID:	123210031
+	Birth:	25/08/2004
+	Class:	22T_DT5
+	Email:	123210031@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Da Nang
+
+44.	Siphanthong Xanakone
+	Age:	19
+	Gender:	Nam
+	ID:	123220032
+	Birth:	05/06/2004
+	Class:	22T_DT5
+	Email:	123220032@sv.dut.udn.com
+	Faculty:	Faculty of Electrical Engineering
+	Address:	Laos
+
